@@ -42,7 +42,7 @@ jobs:
               "name": "MONGODB_CONNECTION_STRING",
               "value": "mongodb://cosmos-kai-tutorial-001:Eyx1QHSV6gZrFjFkq39MjRaa1541MkJ20vq3OZkOo5mGgJYQwlreLMleDptkNvlGnybi8TrUhG992atRPnKMNA==@cosmos-kai-tutorial-001.mongo.cosmos.azure.com:10255/?ssl=true&replicaSet=globaldb&retrywrites=false&maxIdleTimeMS=120000&appName=@cosmos-kai-tutorial-001@",
               "slotSetting": false
-            }
+            },
             {
               "name": "PORT",
               "value": 80,
