@@ -40,7 +40,7 @@ jobs:
           [
             {
               "name": "VUE_APP_ENPOINT_API_BACKEND",
-              "value": "https://app-kai-tutorial-backend-dev-001.azurewebsites.net/",
+              "value": "https://app-kai-tutorial-backend-dev-001.azurewebsites.net/api",
               "slotSetting": false
             }
           ]
